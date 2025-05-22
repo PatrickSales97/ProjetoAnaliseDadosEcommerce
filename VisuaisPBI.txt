@@ -1,0 +1,7 @@
+Receita total
+
+Receita por canal
+
+Receita mensal
+
+Vendas por estado e categoria

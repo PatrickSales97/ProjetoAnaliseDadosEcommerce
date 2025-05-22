@@ -1,0 +1,23 @@
+Comandos Git
+
+git init //dentro da pasta dos arquivos que vão subir, abrir o terminal e dar esse comando para criar um repositório
+
+git remote add origin https://https://github.com/PatrickSales97/ProjetoAnaliseDadosEcommerce.git
+
+//Criar o arquivo README.md (opcional, mas recomendado)
+No seu projeto, crie um arquivo chamado README.md e escreva uma breve descrição do projeto.
+
+git add .
+
+git commit -m "Primeiro commit - adiciona todos os arquivos iniciais"
+
+git push -u origin master
+
+git push -u origin main
+
+//Quando fizer mudanças usar os seguintes códigos
+
+git add .
+git commit -m "Mensagem explicando o que mudou"
+git push
+
