@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 # Configuração do banco
 db_user = 'postgres'
-db_pass = 'Luma1234'
+db_pass = 'senha'
 db_host = 'localhost'
 db_port = '5432'
 db_name = 'ecommerce'
